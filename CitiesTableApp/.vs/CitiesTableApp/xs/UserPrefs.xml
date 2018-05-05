@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{24C01197-4672-4441-967E-0AC596F5A0B0}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CitiesTableApp/Controllers/CitiesTVController.cs">
+    <Files>
+      <File FileName="CitiesTableApp/Models/CitiesManager.cs" Line="10" Column="31" />
+      <File FileName="CitiesTableApp/Resources/incompletecities.json" Line="1" Column="1" />
+      <File FileName="CitiesTableApp/ViewController.cs" Line="1" Column="1" />
+      <File FileName="CitiesTableApp/Controllers/CitiesTVController.cs" Line="55" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.CitiesTableApp PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.7BA236E9-3774-4F00-BADF-5946F06EBC74">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.CitiesTableApp>
+</Properties>
